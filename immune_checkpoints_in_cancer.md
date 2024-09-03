@@ -1,4 +1,4 @@
-Immune Checkpoints in Cancer
+**`Immune Checkpoints in Cancer`**
 
             T cells are a type of white blood cells that play a key role in detecting abnormal cells in the body and destroying them; one type of those abnormal cells is, of course, cancerous cells. T cells use receptors to detect which cells to destroy. However they also have certain proteins existing on them called checkpoint proteins, such as Programmed cell Death 1 (PD1) and cytotoxic T lymphocyte antigen 4 (CTLA-4) . These checkpoints ensure that T cells do not destroy the wrong cells by using a mechanism where if a ligand exists on another cell, such as PDL1 or PDL2, these ligands bind to the checkpoint and cause the inhibition of T cells.
 
@@ -10,7 +10,7 @@ Unfortunately, cancerous cells take advantage of that mechanism to protect thems
 
  
 
-This type of treatment has been used on several types of cancer, mainly metastatic melanoma, renal cell carcinoma, head and neck cancers and non-small lung cancer. However, using ICIs in treatment is not a guarantee to recovery, in fact only around 20% to 40% of patients benefit from this treatment. Although the numbers may be disappointing this only emphasizes the need for further research, especially the importance of developing predictive biomarkers. Biomarkers are tell- tales inside our bodies, they are measurable indicators of biological state or condition. There are many biomarkers involved in checkpoint immunotherapy such as **PD-L1 Expression as** high PD-L1 expression often correlates with a better response to PD-1/PD-L1 inhibitors like pembrolizumab (Keytruda) and nivolumab (Opdivo). This helps scientist in predicting patient response and determining which patients are more likely to respond better to treatment.
+This type of treatment has been used on several types of cancer, mainly metastatic melanoma, renal cell carcinoma, head and neck cancers and non-small lung cancer. However, using ICIs in treatment is not a guarantee to recovery, in fact only around 20% to 40% of patients benefit from this treatment. Although the numbers may be disappointing this only emphasizes the need for further research, especially the importance of developing predictive biomarkers. Biomarkers are tell- tales inside our bodies, they are measurable indicators of biological state or condition. There are many biomarkers involved in checkpoint immunotherapy such as PD-L1 Expression as high PD-L1 expression often correlates with a better response to PD-1/PD-L1 inhibitors like pembrolizumab (Keytruda) and nivolumab (Opdivo). This helps scientist in predicting patient response and determining which patients are more likely to respond better to treatment.
 
 In conclusion, cancerous cells exploit immune checkpoints to evade the immune system, but immune checkpoint inhibitors can block this, however to be able to help a larger percentage of patients, more research needs to be done.
 
